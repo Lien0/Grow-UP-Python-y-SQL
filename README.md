@@ -9,6 +9,32 @@ y Arquitecto de Bases de Datos con SQL.
 Cada ejercicio viene en una carpeta con su readme descriptivo 
 y su solucion.
 
+El indice de libros como referencia para la investigación de ciertos
+problemas o requerimientos solicitados por ejercicio es:
+
+1.- Fluent Python (Luciano Ramalho): Para temas de niveles Avanzado/Profesional (Data Model, Decoradores, Metaprogramación).
+
+2.- Effective Python (Brett Slatkin): Para mejores prácticas de escritura de código (PEP 8, legibilidad y eficiencia).
+
+3.- PEP 8 Style Guide: El estándar oficial de estilo para Python.
+
+4.- Documentación de SQLAlchemy: Para la integración de Python con bases de datos SQL (niveles Intermedio a Profesional).
+
+5.- SQL Performance Explained (Markus Winand): Para optimización de consultas, uso de índices y planes de ejecución (Nivel Profesional).
+
+6.- SQL Antipatterns (Bill Karwin): Para que la IA te enseñe a evitar errores comunes de diseño de bases de datos.
+
+7.- Database Design for Mere Mortals (Michael J. Hernandez): Para fundamentos de normalización y modelado relacional (Nivel Inicial/Intermedio).
+
+8.- Grokking Algorithms (Aditya Bhargava): Para explicarte algoritmos y Big O Notation de forma visual en niveles Iniciales.
+
+9.- Cracking the Coding Interview (Gayle Laakmann McDowell): La fuente principal para los retos de lógica y estructuras de datos de nivel Avanzado.
+
+10.- The Scrum Guide (Sutherland & Schwaber): Para la redacción de los retos en formato "User Story" y gestión de Sprints.
+
+11.- Clean Architecture (Robert C. Martin): Para guiarte en cómo estructurar tus proyectos de portafolio para que sean escalables.
+
+
 Si deseas un prompt para poder utilizar Gemini como una herramienta
 para el aprendizaje de Python y SQL te dejo el siguiente prompt:
 
