@@ -49,24 +49,6 @@ except Exception as e:
     print(f"Error inesperado en el sistema: {e}")
 
 
-# count_logs: Dict[str,int] = count_attempts(logs)
-# max_count: Dict[str,int] = count_logs.copy()
-
-# for c, v in count_logs.items():
-#     if(v > 2):
-#         print(f"""
-#               \nAnalisis de seguridad terminado.
-
-#               El usuario {c} tuvo {v} intentos para acceder.
-
-#               """)
-#     for cl, va in max_count.items():
-#         if(v > va):
-#             del max_count[cl]
-
-# for c,v in count_logs.items():
-#   print(f"\nEl usuario con mayores intentos fue: {c}")
-    
     #Version Senior:
 
 
