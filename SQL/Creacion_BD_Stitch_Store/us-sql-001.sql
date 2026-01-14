@@ -1,8 +1,8 @@
-CREATE DATABASE "stitch_store_db";
+CREATE DATABASE stitch_store_db;
 /*Importante usar USE para aclarar en que BD vmaos a trabajar*/
 USE stitch_store_db;
 
-CREATE TABLE "products" (
+CREATE TABLE products (
     id int NOT NULL GENERATED ALWAYS AS IDENTITY,
     name VARCHAR(100) NOT NULL,
     category VARCHAR(100),

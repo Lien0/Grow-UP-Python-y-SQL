@@ -49,7 +49,7 @@ except Exception as e:
     print(f"Error inesperado en el sistema: {e}")
 
 
-    #Version Senior:
+    #AI Version:
 
 
 # Constantes en MAYÚSCULAS (PEP 8)
